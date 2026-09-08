@@ -32,3 +32,19 @@ This project allows users to select stocks from a predefined list, enter the qua
 
 ```bash
 python stock_portfolio.py
+
+## 🎯 Learning Concepts
+
+- Python variables
+- Lists and dictionaries
+- Functions
+- Conditional statements
+- Loops
+- User input
+- Calculations
+- Basic stock portfolio management
+- Python programming fundamentals
+
+## 👩‍💻 Author
+
+Bhavya
